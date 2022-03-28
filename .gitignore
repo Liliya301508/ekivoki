@@ -1,8 +1,11 @@
-#  IDEA dir
+# папка среды разработки
 *.idea
 
 # Compiled class file
 *.class
+
+# Log file
+*.log
 
 # BlueJ files
 *.ctxt
